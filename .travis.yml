@@ -4,7 +4,7 @@ os:
   - osx
 language: node_js
 node_js:
-  - node
+  - '9'
   - '9'
   - '8'
   - '7'
@@ -13,3 +13,4 @@ node_js:
   - '4'
   - '0.12'
   - '0.10'
+dist: trusty
